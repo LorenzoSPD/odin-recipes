@@ -1,0 +1,25 @@
+body {
+    background-color: #CBBD93;
+    width: 100%;
+    margin: 0px;
+
+
+}
+
+header {
+    background-color:#e6d8ae;
+    padding:8px;
+
+}
+
+header img {
+    height: 50px;
+    width: auto;
+    display: block; /* Ensure the image respects its dimensions */
+}
+
+button #main-header {
+
+
+
+}
